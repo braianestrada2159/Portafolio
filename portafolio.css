@@ -1,3 +1,4 @@
+/* Portafolio CSS Stylesheet */
 :root {
     --primary-color: #0496FF;
     --primary-dark: #0378CC;
@@ -9,6 +10,7 @@
     --text-muted: #A0A0B0;
 }
 
+/*Estilos generales*/
 * {
     margin: 0;
     padding: 0;
@@ -16,12 +18,14 @@
     font-family: 'Poppins', sans-serif;
 }
 
+/* Body */
 body {
     background-color: var(--dark-color);
     color: var(--text-color);
     line-height: 1.6;
 }
 
+/* Container */
 .container {
     max-width: 1200px;
     margin: 0 auto;
@@ -38,6 +42,7 @@ header {
     border-bottom: 1px solid rgba(4, 150, 255, 0.1);
 }
 
+/*estilos de navegación*/
 nav {
     display: flex;
     justify-content: space-between;
@@ -45,6 +50,7 @@ nav {
     padding: 20px 0;
 }
 
+/* Logo */
 .logo {
     font-size: 24px;
     font-weight: 700;
@@ -52,6 +58,7 @@ nav {
     text-shadow: 0 0 10px rgba(4, 150, 255, 0.3);
 }
 
+/*links de navegación*/
 .nav-links {
     display: flex;
     list-style: none;
