@@ -32,8 +32,8 @@ Este proyecto es un portafolio personal desarrollado con HTML, CSS y JavaScript 
 - **Inicio**: Presentación general.
 - **Sobre mí**: Perfil personal y profesional.
 - **Habilidades**: Tecnologías y herramientas dominadas.
+- **Proyectos**: Muestra de proyectos (Juegos, Calculadora, Sistema de Votación).
 - **Experiencia**: Trayectoria laboral y proyectos relevantes.
-- **Portafolio**: Muestra de proyectos (Juegos, Calculadora, Sistema de Votación).
 - **Contacto**: Datos personales, redes sociales y formulario de contacto.
 
 
