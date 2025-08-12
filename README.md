@@ -36,9 +36,6 @@ Este proyecto es un portafolio personal desarrollado con HTML, CSS y JavaScript 
 - **Portafolio**: Muestra de proyectos (Juegos, Calculadora, Sistema de Votación).
 - **Contacto**: Datos personales, redes sociales y formulario de contacto.
 
-## 📷 Capturas (opcional)
-
-Puedes añadir capturas de pantalla o gifs aquí para mostrar cómo luce el portafolio.
 
 ## 🚀 Cómo ver el proyecto
 
